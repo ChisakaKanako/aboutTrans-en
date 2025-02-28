@@ -33,6 +33,12 @@ export default defineConfig({
         text: 'Concept & Definition', link: '/documents/concept-and-definition'
       },
       {
+        text: 'Transition & Surgery', link: '/documents/transition-and-surgery'
+      },
+      {
+        text: 'Legal & Social', link: '/documents/legal-and-social'
+      },
+      {
         text: 'Day & Festival', link: '/documents/day-and-festival'
       },
       {
