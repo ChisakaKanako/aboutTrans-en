@@ -21,7 +21,7 @@ export default defineConfig({
       provider: 'local'
     },
     footer: {
-      copyright: '© 2025 aboutTrans. Created by Kanako.'
+      copyright: '© Created by Kanako.'
     },
     nav: [
       { text: 'Home', link: '/' },

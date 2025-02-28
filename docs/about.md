@@ -10,8 +10,7 @@ const members = [
   {
     avatar: '/profile.png',
     name: 'Kanako',
-    title: 'Creator',
-    desc: 'my1c21@soton.ac.uk'
+    title: 'Creator'
   }
 ]
 </script>
