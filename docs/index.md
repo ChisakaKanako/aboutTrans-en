@@ -18,11 +18,11 @@ features:
   - icon: 📚
     link: /documents/legal-and-social
     title: Legal & Social
-    details: 
+    details: Information about legal rights, social acceptance, and challenges faced by the transgender community.
   - icon: 🎊
     link: /documents/day-and-festival
     title: Day & Festival
-    details: 
+    details: Learn about important days and festivals celebrated within the transgender community.
   - icon: 💬
     link: /documents/q-and-a
     title: Q & A
@@ -30,11 +30,11 @@ features:
   - icon: 🔗
     link: /resource
     title: Resource
-    details: 
+    details: A curated list of resources, including support organizations, helplines, and educational materials.
   - icon: 📖
     link: /reference
     title: Reference
-    details: 
+    details: Comprehensive references and further reading materials on transgender-related topics.
   - icon: 🥰
     link: /about
     title: About
