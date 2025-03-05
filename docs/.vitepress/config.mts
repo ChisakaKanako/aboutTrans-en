@@ -14,7 +14,7 @@ export default defineConfig({
   themeConfig: {
     lastUpdated: {
       formatOptions: {
-        dateStyle: 'medium'
+        dateStyle: 'short'
       }
     },
     search: {
