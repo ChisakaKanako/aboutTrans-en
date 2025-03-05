@@ -1,5 +1,5 @@
 ---
 title: Resource
-next: false
+prev: false
 lastUpdated: false
 ---
