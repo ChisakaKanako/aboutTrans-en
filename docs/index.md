@@ -35,7 +35,7 @@ features:
     link: /reference
     title: Reference
     details: Comprehensive references and further reading materials on transgender-related topics.
-  - icon: 🥰
+  - icon: 🌈
     link: /about
     title: About
     details: We follow contemporary, objective facts and friendly language to provide more inclusive content.
