@@ -1,6 +1,5 @@
 ---
 title: About
-lastUpdated: false
 ---
 
 # Eliminating discrimination and stigma requires our collective efforts

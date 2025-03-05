@@ -17,6 +17,10 @@ export default defineConfig({
         dateStyle: 'short'
       }
     },
+    editLink: {
+      pattern: 'https://github.com/ChisakaKanako/en/edit/main/docs/:path',
+      text: 'Suggest changes to this page'
+    },
     search: {
       provider: 'local'
     },
