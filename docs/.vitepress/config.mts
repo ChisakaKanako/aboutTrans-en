@@ -11,6 +11,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: '/icon.png'}]
   ],
+  cleanUrls: true,
   themeConfig: {
     lastUpdated: {
       formatOptions: {
