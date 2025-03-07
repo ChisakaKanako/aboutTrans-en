@@ -4,6 +4,11 @@ export default defineConfig({
     root: {
       label: 'English',
       lang: 'en'
+    },
+    zh: {
+      label: '中文',
+      lang: 'zh',
+      link: 'https://aboutrans.info'
     }
   },
   title: "aboutTrans",
