@@ -13,13 +13,14 @@ export default defineConfig({
   ],
   cleanUrls: true,
   themeConfig: {
+    logo: '/icon.png',
     lastUpdated: {
       formatOptions: {
         dateStyle: 'short'
       }
     },
     editLink: {
-      pattern: 'https://github.com/ChisakaKanako/en/edit/main/docs/:path',
+      pattern: 'https://github.com/ChisakaKanako/aboutTrans-en/edit/main/docs/:path',
       text: 'Suggest changes to this page'
     },
     search: {
