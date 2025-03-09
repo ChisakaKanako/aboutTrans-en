@@ -37,23 +37,16 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: "Navigation",
+        text: "Menu",
         items: [
           { text: 'Concept & Definition', link: '/documents/concept-and-definition' },
           { text: 'Transition & Surgery', link: '/documents/transition-and-surgery' },
           { text: 'Legal & Social', link: '/documents/legal-and-social' },
           { text: 'Day & Festival', link: '/documents/day-and-festival' },
-          { text: 'Q & A', link: '/documents/q-and-a' }
-        ]
-      },
-      {
-        text: "Other pages",
-        items: [
-          { text: 'Resource', link: '/resource' },
-          { text: 'Reference', link: '/reference' },
+          { text: 'Q & A', link: '/documents/q-and-a' },
           { text: 'About', link: '/about' }
         ]
-      },
+      }
     ]
   }
 })

@@ -32,16 +32,6 @@ features:
     title: Q & A
     details: We will answer your questions with exact and specific answers to help dispel misunderstandings and prejudices of transgender.
     linkText: Learn more
-  - icon: 🔗
-    link: /resource
-    title: Resource
-    details: A curated list of resources, including support organizations, helplines, and educational materials.
-    linkText: Learn more
-  - icon: 📖
-    link: /reference
-    title: Reference
-    details: Comprehensive references and further reading materials on transgender-related topics.
-    linkText: Learn more
   - icon: 🌈
     link: /about
     title: About
