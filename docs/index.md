@@ -30,7 +30,7 @@ features:
   - icon: ❓
     link: /documents/q-and-a
     title: Q & A
-    details: We will answer your questions with exact and specific answers to help dispel misunderstandings and prejudices of transgender.
+    details: Answer your questions with exact and specific answers to help dispel misunderstandings and prejudices of transgender.
     linkText: Learn more
   - icon: 🏳️‍⚧️
     link: /about
