@@ -27,12 +27,12 @@ features:
     title: Day & Festival
     details: Learn about important days and festivals celebrated within the transgender community.
     linkText: Learn more
-  - icon: 💬
+  - icon: ❓
     link: /documents/q-and-a
     title: Q & A
     details: We will answer your questions with exact and specific answers to help dispel misunderstandings and prejudices of transgender.
     linkText: Learn more
-  - icon: 🌈
+  - icon: 🏳️‍⚧️
     link: /about
     title: About
     details: We follow contemporary, objective facts and friendly language to provide more inclusive content.
