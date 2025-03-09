@@ -31,8 +31,6 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Resource', link: '/resource' },
-      { text: 'Reference', link: '/reference' },
       { text: 'About', link: '/about' }
     ],
     sidebar: [
